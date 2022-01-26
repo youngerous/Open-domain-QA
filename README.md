@@ -6,6 +6,6 @@ This repo contains group presentation materials of [ACL 2020 tutorial: Open-Doma
 
 
 ## Members
-(Korean alphabetical order) [Takyoung Kim](https://github.com/youngerous), [Yookyung Kho](https://github.com/yookyungkho), [Hoonsang Yoon](https://github.com/Hoonst), [Yukyung Lee](https://github.com/yukyunglee), [Jaehyuk Heo](https://github.com/TooTouch)
+(Korean alphabetical order) [Yookyung Kho](https://github.com/yookyungkho), [Takyoung Kim](https://github.com/youngerous), [Hoonsang Yoon](https://github.com/Hoonst), [Yukyung Lee](https://github.com/yukyunglee), [Jaehyuk Heo](https://github.com/TooTouch)
 
 \+ Special guest: [Hanseok Oh](https://github.com/hanseokOh) (KAIST AI)
