@@ -11,7 +11,6 @@ This repo contains group presentation materials of [ACL 2020 tutorial: Open-Doma
 \+ Special guest: [Hanseok Oh](https://github.com/hanseokOh) (KAIST AI)
 
 
----
 
 ## Presentation List
 
